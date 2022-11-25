@@ -1,0 +1,14 @@
+
+https://tourism.punjab.gov.pk/system/files/Tourism%20Policy%20Approved_0.pdf
+https://tourism.gov.pk/publications/NEWSLETTER_PTDC.pdf
+https://kptourism.com/uploads/images/downloads/1634731179095-tourism-policy-2015.pdf
+
+
+
+
+
+
+NODE JS
+todo app ki backend ki api's create krni ha
+unk oper authoriztion lgani ha jwt token s
+
