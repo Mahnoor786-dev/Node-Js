@@ -1,0 +1,16 @@
+1. Statelessness in RESTFUL apis
+As per the REST (REpresentational “State” Transfer)architecture, the server does not store any state about the client session on the server-side. This restriction is called Statelessnes
+ref:
+restfulapi.net/statelessness/
+
+
+2. Difference bw REST and RESTFUL API
+devmountain.com/blog/what-is-the-difference-between-rest-and-restful-apis/
+
+
+
+
+
+
+For storing v large dataset (like 20k-10M), List performance >> Vector's
+For searching: Unordered map > Vector > List
